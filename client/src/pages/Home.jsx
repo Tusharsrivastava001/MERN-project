@@ -44,7 +44,7 @@ const Home = () => {
             <div className="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-600">
               <Link to="/" className="hover:text-emerald-600 transition-colors">Home</Link>
               <Link to="/transport" className="hover:text-emerald-600 transition-colors">Transport Hub</Link>
-              <Link to="/planner" className="hover:text-emerald-600 transition-colors">Precision Plans</Link>
+              <Link to="/fertilizer" className="hover:text-emerald-600 transition-colors">Precision Plans</Link>
               <Link to="/about" className="hover:text-emerald-600 transition-colors">About Us</Link>
             </div>
 
